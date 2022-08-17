@@ -1,0 +1,4 @@
+name: PotSG
+version: 1.0-SNAPSHOT
+main: org.ortix.sg.SGPlugin
+depend: [qLib]
